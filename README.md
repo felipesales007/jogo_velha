@@ -4,7 +4,7 @@
 
 ![alt text](https://uploaddeimagens.com.br/images/001/967/488/original/7.png "tela")
 
-Jogo da velha com as opções de jogo play vs play, play vs pc, e multiplayer.
+Jogo da velha com as opções de jogo play vs play, play vs pc, e multiplayer. Desenvolvido em Java.
 
 ## Versão disponível
 
